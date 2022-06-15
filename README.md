@@ -1,9 +1,16 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-This tutorial focuses mainly on Git and using GitHub as its remote.
+[![Build Status](https://travis-ci.org/chrishantha/sample-java-programs.svg?branch=master)](https://travis-ci.org/chrishantha/sample-java-programs)
 
-This repository is built step by step in the tutorial.
+Sample Java Programs
+====================
 
-It now includes steps for GitHub
-abc
+This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
+
+## How to build
+
+Run `mvn clean install` to build all sample programs
+
+## License
+
+Copyright (C) 2015 M. Isuru Tharanga Chrishantha Perera
+
+Licensed under the Apache License, Version 2.0
